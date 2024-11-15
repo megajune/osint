@@ -59,7 +59,7 @@ gp3.exe
 gp4.exe
 gp5.exe
 getscreen.exe
-,gotoassist.exe
+gotoassist.exe
 g2a*.exe
 gotohttp.exe
 g2tray.exe
@@ -97,7 +97,8 @@ ltsvcmon.exe
 lttray.exe
 ltsvc.exe
 landeskagentbootstrap.exe
-ldinv32.exe,ldsensors.exe
+ldinv32.exe
+ldsensors.exe
 issuser.exe
 serverproxyservice.exe
 llrcservice.exe
